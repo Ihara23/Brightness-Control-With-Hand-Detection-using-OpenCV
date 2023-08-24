@@ -1,0 +1,5 @@
+mediapipe==0.10.1
+numpy==1.24.3
+opencv_contrib_python==4.7.0.72
+opencv_python==4.7.0.72
+screen_brightness_control==0.21.0
